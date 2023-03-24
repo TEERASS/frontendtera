@@ -1,6 +1,4 @@
-![Home 2023-03-24 163449](https://user-images.git![experience add 2023-03-24 163636](https://user-images.githubusercontent.com/127810375/227503952-97360f07-4bf6-4ba5-81a8-3d01dc6a927a.png)![experience 2023-03-24 163737](https://user-images.githubusercontent.com/127810375/227503965-c59c2bdf-48ef-4b68-8e40-ce9dbd179150.png)
 
-hubusercontent.com/127810375/227503904-6b88bdb8-d5dd-4e98-bd02-1d474ff80f84.png)
 # Getting Started with Create React App![about 2023-03-![contect 2023-03-24 163552](https://user-images.githubusercontent.com/127810375/227503935-8271a845-8982-4b3f-b27a-ea145989b97c.png)
 24 163519](https://user-images.githubusercontent.com/127810375/227503920-fb16f0ef-ed36-4198-8c1c-97a2c51e8d7a.png)
 
@@ -74,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# PortfolioThiraphat" 
+![Home 2023-03-24 163449](https://user-images.githubusercontent.com/127810375/227504136-dda1eef6-7e18-489c-8eb5-e991451640ef.png)
+![about 2023-03-24 163519](https://user-images.githubusercontent.com/127810375/227504148-a1a33e3f-b2f6-4aec-b4b3-89b6236cc149.png)
+![contect 2023-03-24 163552](https://user-images.githubusercontent.com/127810375/227504159-376665e1-858f-4845-938a-c82b1b23dcaf.png)
+![experience add 2023-03-24 163636](https://user-images.githubusercontent.com/127810375/227504176-17177792-4e98-48f8-a95e-9179f101b42f.png)
+![experience 2023-03-24 163737](https://user-images.githubusercontent.com/127810375/227504186-f35b6b7c-afab-473f-83af-faf38b5368af.png)
